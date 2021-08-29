@@ -1,0 +1,110 @@
+*{
+    background-color:#2a9d8f;
+}
+h3{
+    color: indianred;
+    background-color: mediumaquamarine;
+}
+
+/* use color picker - Google */
+/* RGB HEX */
+
+/* https://coolors.co/palettes/trending */
+p{
+    color: rgb(125, 250, 0);
+}
+button{
+    color: lightseagreen;
+    background-color: maroon;
+}
+
+#hID{
+    text-align: center;
+    /* text-align: right;
+    width: 50%; */
+    letter-spacing: 15px;
+    text-decoration: blue underline wavy;
+    font-size: 80px;
+    font-family: Arial;
+}
+
+#pID{
+    text-align: right;
+    font-weight: bold;
+    line-height: 2;
+    font-family: Verdana;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    font-size: 30px;
+}
+
+h1,h2{
+    color:saddlebrown;
+}
+
+.btn{
+    background-color: salmon;
+}
+
+span{
+    background-color: red;
+    color: black;
+}
+
+#ul1 li{
+    color: red;
+
+}
+
+h1 + button {
+    color:yellow;
+}
+
+div > h2{
+    color: yellow;
+}
+
+input[type="password"] {
+    color: red;
+
+}
+
+#hvr:hover{
+    background-color: white;
+    color: black;
+
+}
+
+#hvr:active{
+    background-color: yellow;
+
+
+}
+
+#pID{
+    background-color:black;
+}
+
+#pID::first-letter{
+    font-size: 50px;
+}
+
+#pID::first-line{
+    color: coral;
+}
+
+#pID::selection{
+    background-color: coral;
+}
+
+
+
+
+
+
